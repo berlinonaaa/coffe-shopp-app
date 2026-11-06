@@ -1,0 +1,17 @@
+export const items = [
+  { name: "Espresso Single", desc: "Ekstrak kopi murni yang pekat dengan crema tebal.", price: "$3.00" },
+  { name: "Flat White", desc: "Double espresso dengan microfoam milk yang lembut.", price: "$4.50" },
+  { name: "Cold Brew Vanilla", desc: "Kopi peram 18 jam dengan sentuhan sirup vanilla sirup buatan rumah.", price: "$5.20" },
+  { name: "Spanish Latte", desc: "Espresso, susu segar, dan manis gurihnya kental manis.", price: "$4.80" },
+  { name: "Matcha Latte", desc: "Bubuk matcha premium Uji Jepang dipadu dengan susu hangat.", price: "$5.00" },
+  { name: "Earl Grey Tea", desc: "Teh hitam bermutu tinggi dengan sentuhan aroma jeruk bergamot.", price: "$3.50" },
+  { name: "Chocolate Hazelnut", desc: "Cokelat pekat lezat dipadukan dengan sensasi rasa kacang hazelnut.", price: "$4.80" },
+  { name: "Butter Croissant", desc: "Pastry klasik Perancis yang renyah di luar dan lembut berserat di dalam.", price: "$3.80" },
+  { name: "Almond Pain au Chocolat", desc: "Pastry isi cokelat dengan taburan kacang almond panggang di atasnya.", price: "$4.50" },
+  { name: "Cinnamon Roll", desc: "Roti gulung kayu manis dengan glaze gula dan cream cheese manis.", price: "$4.20" },
+  { name: "Avocado Toast", desc: "Roti sourdough panggang dengan alpukat tumbuk dan poached egg.", price: "$7.50" },
+  { name: "Classic Waffle", desc: "Waffle renyah disajikan dengan mentega cair dan sirup maple.", price: "$6.00" },
+  { name: "Blueberry Cheesecake", desc: "Kue keju lembut bertekstur creamy dengan selai blueberry segar.", price: "$5.50" },
+  { name: "Fudge Brownie", desc: "Brownies cokelat pekat yang padat, manis, dan fudgy.", price: "$3.50" },
+  { name: "Tiramisu Cup", desc: "Dessert Italia beraroma kopi dan lapisan cream mascarpone yang halus.", price: "$5.00" },
+];
